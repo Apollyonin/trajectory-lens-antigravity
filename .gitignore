@@ -1,0 +1,11 @@
+# Dependencies & runtime plugin state
+node_modules/
+.data/
+
+# Logs & temporary files
+*.log
+*.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db

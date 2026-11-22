@@ -1,0 +1,15 @@
+{
+  "name": "trajectory-lens",
+  "displayName": "Trajectory Lens",
+  "version": "1.0.0",
+  "description": "AI-assisted Antigravity plugin re-implemented based on DSH official model trajectory visualization features: turn/step ledger, parallel execution DAG, subagent span waterfall, token & prompt-cache analytics, session compare, plain-language guide, and standalone HTML/Markdown export (Official Safe Mode, zero proxy).",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "打开 Trajectory Lens 侧边栏，可视化分析当前会话的模型运作轨迹与耗时瓶颈",
+    "总结当前会话的轮次、工具调用分布、Prompt Cache 命中率与异常重试步骤",
+    "将当前会话的完整运作轨迹导出为可离线回放的独立 HTML 报告"
+  ],
+  "author": "Apollyonin (AI-assisted re-implementation for Antigravity)",
+  "homepage": "https://github.com/Apollyonin/trajectory-lens-antigravity",
+  "repository": "https://github.com/Apollyonin/trajectory-lens-antigravity"
+}
