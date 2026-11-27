@@ -6,7 +6,8 @@
   "scripts": {
     "build:ui": "node ui/build.mjs",
     "test": "node tests/parser.test.mjs && node tests/mcp-smoke.test.mjs",
-    "install:global": "node scripts/install-global.mjs"
+    "install:global": "node scripts/install-global.mjs",
+    "pack:release": "node scripts/pack-release.mjs"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.32.2",
