@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "pluginRoot": ".",
+  "categories": ["monitoring-quota", "developer-tools"],
+  "tags": ["trajectory", "dag", "subagent", "waterfall", "prompt-cache", "mcp-app"],
+  "platforms": ["win32", "darwin", "linux"],
+  "releaseAsset": "trajectory-lens.tar.gz"
+}

@@ -1,6 +1,7 @@
 # Dependencies & runtime plugin state
 node_modules/
 .data/
+release/
 
 # Logs & temporary files
 *.log
